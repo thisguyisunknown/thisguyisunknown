@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dreyk
+- 👋 Hi, I’m rpdnek
 - 👀 I’m interested in HTML, CSS and some JS
 - 🌱 I’m currently learning Web Development
 
